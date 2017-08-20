@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+h2 {
+	color: #80ffff;
+	font-size: 90px;
+	font-family: sans-serif;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+body {
+	text-align: center;
+}
+
+table, tr {
+	font-family: sans-serif;
+	border: medium solid black;
+}
