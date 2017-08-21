@@ -13,10 +13,10 @@
 <div><a href="/MySpringWebsite/home">Home</a></div>
 <table align="center">
 	<tr>
-		<th>Date</th>
-		<th>Time</th>
-		<th>FreeRam</th>
-		<th>DiskSpace</th>
+		<th title="The date on the server.">Date</th>
+		<th title="Current time and time zone on the server.">Time</th>
+		<th title="Free ram on the server in bytes.">FreeRam</th>
+		<th title="Free disk space on the server in bytes.">DiskSpace</th>
 
 	</tr>
 	<tr>
